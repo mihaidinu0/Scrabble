@@ -8,3 +8,6 @@ Implementing a full game of Scrabble in C++.
 - Alexia COLCER
 - Lucian POPESCU
 - Mihai DINU
+- Petru SLAVILA
+
+# Build
